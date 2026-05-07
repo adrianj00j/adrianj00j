@@ -21,7 +21,7 @@
 🎮 Gamer de PC e otaku funcional (ou não)
 ---
 
-## 🪐 Tech Stack (modo galáxia)
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,arduino,cpp,js,html,css&theme=dark" />
 </p>
@@ -46,21 +46,21 @@
 
 ---
 
-## 🔥 Streak (energia nuclear)
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=adrianj00j&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 ---
 
-## 🌌 Gráfico de atividade (meteor shower)
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianj00j&bg_color=0D1117&color=9B7CFF&line=4C71F2&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Troféus cósmicos
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adrianj00j&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
