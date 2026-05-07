@@ -50,9 +50,14 @@
   🚀 <b>Meta:</b> misturar IA + automação + criatividade em projetos insanos
 </p>
 
+
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=adrianj00j&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianj00j&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianj00j&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianj00j&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrianj00j&theme=tokyonight" />
 </p>
 
 ---
