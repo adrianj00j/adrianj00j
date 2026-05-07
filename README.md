@@ -38,7 +38,18 @@
 
 ---
 
-## 📊 GitHub Stats (modo boss final)
+## 📚 Atualmente estudando
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎨%20Modelagem%203D-Blender-FF6A00?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📊%20Ciência%20de%20Dados-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎮%20Game%20Dev-Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+</p>
+
+<p align="center">
+  🚀 <b>Meta:</b> misturar IA + automação + criatividade em projetos insanos
+</p>
+
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=adrianj00j&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianj00j&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
@@ -78,6 +89,11 @@
 <p align="center">
   <a href="https://github.com/adrianj00j">
     <img src="https://img.shields.io/badge/GitHub-adrianj00j-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+<p align="center">
+  <a href="mailto:adrianalencar996@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me%20manda%20mensagem-9B7CFF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
