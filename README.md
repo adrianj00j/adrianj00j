@@ -71,7 +71,7 @@
 
 ## 📡 Contato
 📩 Email: (adrianalencar08@gmail.com)  
-💬 Discord: (coloca aqui se quiser)
+
 
 ---
 
